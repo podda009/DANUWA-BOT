@@ -15,10 +15,10 @@ const defaultConfig = {
   SESSION_ID: "GFwC0SZR#c9f5DXTgjbw2sEvHtVAJqIqFDDVMC3udl9thH-xyO1o", // Put your session id here
   ALIVE_IMG: "https://github.com/DANUWA-MD/DANUWA-BOT/blob/main/images/Danuwa%20-%20MD.png?raw=true",
   ALIVE_MSG: "*Hello👋 DANUWA-MD Is Alive Now😍*", // Change alive msg from here
-  OPENAI_API_KEY: "",// Add OPENAI API key here
+  OPENAI_API_KEY: "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",// Add OPENAI API key here
   GEMINI_API_KEY: "AIzaSyCW-eVjcPPUHx38PCfrgs37_vTm-D0rnC0", // Add Gemini API key here
-  REMOVE_BG_API_KEY:"", // Add removebg API key here
-  WEATHER_API_KEY: "", // Add your weather API key here
+  REMOVE_BG_API_KEY:"xMhuauy8VWhjEzwULxykwSf4", // Add removebg API key here
+  WEATHER_API_KEY: "560ee6b5f3184e61a7204535251907", // Add your weather API key here
   BOT_OWNER: "94771575987", // Replace your bot owner number here with 94(country code)
   ownerNumber: ["94771575987"], // Replace your bot owner number here (same as bot owner number)
   AUTO_STATUS_REACT: "true",
