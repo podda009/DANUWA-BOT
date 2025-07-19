@@ -24,7 +24,7 @@ const defaultConfig = {
   AUTO_STATUS_REACT: "true",
   AUTO_STATUS_REPLY: "false",
   AUTO_STATUS_SEEN: "true",
-  MODE: "private", // 'private', 'public'
+  MODE: "public", // 'private', 'public'
 };
 
 //*******************************************************************************************************************************************************
